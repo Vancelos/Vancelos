@@ -6,7 +6,7 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Vancelos! I am a Computer Engineering student from Protugal.
+  Hi 👋, I'm Vancelos! I am a Computer Engineering student from Portugal.
 
   - 🌱 I’m currently studying Computer Engineering at Aveiro University.
 </p>
