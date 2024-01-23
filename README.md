@@ -17,11 +17,15 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vancelos/)
 
 <!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=Vancelos&show_icons=true&theme=gotham)
+
+<div style="display: flex; flex-direction: row;">
+ <img style="height: auto; width: 54%;" src="https://github-readme-stats.vercel.app/api?username=Vancelos&show_icons=true&theme=dark" />
+ <img style="height: auto; width: 41%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vancelos&theme=dark" />
+</div>
 
 <!-- GIF -->
-<p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+<p align="center">
+  <img align="center" style="width: 700px" src="https://media0.giphy.com/media/11KzOet1ElBDz2/giphy.gif?cid=ecf05e47xvqerhsmyhc0q62uwzqjf7enjebxtdioxq9g2ks0&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Imagem">
 </p>
 
 ## 🔥 Skills
